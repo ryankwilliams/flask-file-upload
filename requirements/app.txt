@@ -1,0 +1,3 @@
+Flask>=0.12
+Flask-SQLAlchemy>=2.3.2
+mysql>=0.0.1

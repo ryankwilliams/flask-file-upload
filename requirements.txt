@@ -1,0 +1,2 @@
+-r requirements/app.txt
+docker-compose>=1.17
